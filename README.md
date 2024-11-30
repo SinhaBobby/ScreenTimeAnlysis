@@ -3,3 +3,6 @@ Models tried: Logrithmic regression: acc= 0.9
  ANN: Acc = 0.9 
 
  Hidden layers used "Relu" activation mechanism and it occured that increasing the number of epochs, affected the accuracy +ly
+
+ Here validation accuracy is more , thus showing trends of Underfitting.
+ Since data is very less over here thus underfitting trend.
